@@ -16,3 +16,7 @@ while True:
 
     opcao = input(menu)
      if opcao == "d":
+       print("Deposito")
+
+       elif opcao == "s"
+        print("saque")
